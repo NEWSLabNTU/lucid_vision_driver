@@ -70,6 +70,8 @@ def generate_launch_description():
                              "gamma_target": camera_yaml_param['gamma_target'],
                              "enable_compressing": camera_yaml_param['enable_compressing'],
                              "enable_rectifying": camera_yaml_param['enable_rectifying'],
+                             "image_horizontal_flip": camera_yaml_param['image_horizontal_flip'],
+                             "image_vertical_flip": camera_yaml_param['image_vertical_flip'],
                              }],
                 remappings=[
                 ],
