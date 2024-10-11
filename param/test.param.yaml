@@ -8,7 +8,7 @@
     fps: 20
     horizontal_binning: 1 # resize horizontal resolution/horizontal_binning
     vertical_binning: 1 # resize horizontal resolution/vertical_binning
-    enable_rectifying: false
+    enable_rectifying: true
     enable_compressing: false
     use_default_device_settings: false
     # if you use_default_device_settings: true, the following settings are ignored.
